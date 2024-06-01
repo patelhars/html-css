@@ -1,0 +1,16 @@
+.parent{
+    background-color: yellow;
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* justify-content: start; */
+     justify-content: end; 
+  
+}
+.child{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    border: 2px solid;
+}

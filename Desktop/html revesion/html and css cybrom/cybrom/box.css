@@ -1,0 +1,29 @@
+.main{
+    background-color: yellow;
+    /* padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px; */
+    padding: 30px;
+    /* border: 3px solid  rgb(17, 63, 231); */
+    /* border: 3px dotted black; */
+    /* border: 3px dashed  rgb(17, 63, 231); */
+    border= 
+}
+
+.main1{
+    background-color: aqua;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.main2 {
+background-color: aquamarine;
+height: 300px;
+width: 400px;
+/* box-shadow: 3px 4px 5px 12px brown ; */
+/* border-radius: 21px;
+ */
+ border-top-left-radius: 45px; 
+/* border-top-left-radius: ; */
+
+}

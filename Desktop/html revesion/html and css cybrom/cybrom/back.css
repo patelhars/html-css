@@ -1,0 +1,19 @@
+.main{
+background-image: url(thailand.jpg);
+height: 300px;
+width: 350px;
+}
+
+
+.main1{
+    background-image: url(true.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+h1{
+    font-size: xx-large;
+    text-align: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin-bottom: 100px;
+}

@@ -1,0 +1,36 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.navbar{
+    display: flex;
+    background-color: aquamarine;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+    top: 0px; 
+    /* position: fixed;
+      width: 100px;   */
+}
+
+.child{
+    display: flex;
+    gap:20px;
+
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.head{
+    background-color: aqua;
+}
+
+p{
+    font-size: xx-large;
+    /* word-spacing: 30px; */
+    letter-spacing:30px ;
+    line-height: 100px;
+}

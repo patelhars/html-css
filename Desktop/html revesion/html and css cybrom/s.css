@@ -1,0 +1,50 @@
+ /* .container{
+    background-color: tomato;
+} */
+ /* p{
+    background-color: green;
+}  */
+
+h1{
+/* text-decoration: overline; */
+    /* text-decoration: line-through; */
+   /* text-decoration: dashed;
+    text-decoration: double;
+    text-decoration: dotted;
+    text-decoration: solid; */
+    background-color: aqua;
+   text-decoration: underline; 
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    /* text-shadow: -2px -30px 4px blue; */
+    /* text-shadow: 2px 3px 4px blue; */
+    text-align: center;
+    text-transform: capitalize;
+    /* text-transform: lowercase;
+    text-transform: uppercase; */
+    font-size: 60px;
+    font-style: italic;
+    }
+   .para {
+    font-weight: bold;
+        
+    }
+
+    .container h1 {
+        text-decoration: none;
+        font-size: 20px;
+        background-color:transparent;
+        text-align: left;
+    } 
+
+    .container ul li{
+        font-size: larger;
+        background-color: aqua;
+    }
+
+    .container button{
+        background-color: rgb(0, 229, 255);
+        color: rgb(255, 128, 0);
+    }
+
+    
